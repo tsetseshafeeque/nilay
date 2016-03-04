@@ -2,7 +2,7 @@ package com.hpe.cache.dymaniccache;
 
 import org.junit.Test;
 
-public class test{
+public class testDynamic{
 
 	@Test
 	public void testDynamic() 
