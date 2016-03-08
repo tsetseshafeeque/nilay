@@ -27,7 +27,10 @@ public static DynamicCache dc= new DynamicCache(2);
     
     public static void main(String[] args)
 	{
-	do{
+	
+          System.out.println("Cache Implementation");
+
+           do{
               
             System.out.println("1. Static Cache... \n2. Dynamic Cache... \n3. FIFO Cache... \n4. LRU Cache... \n5. Exit. \n\n Enter your choice:- ");
             ch=sc.nextInt();
