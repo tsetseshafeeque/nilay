@@ -28,7 +28,7 @@ public static DynamicCache dc= new DynamicCache(2);
     public static void main(String[] args)
 	{
 	
-          System.out.println("Cache Implementation Program";
+          System.out.println("Cache Implementation Program");
 
            do{
               
