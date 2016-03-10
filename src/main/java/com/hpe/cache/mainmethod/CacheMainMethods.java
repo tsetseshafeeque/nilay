@@ -5,7 +5,7 @@
  */
 
 package com.hpe.cache.mainmethod;
-
+/* main method */
 
 import com.hpe.cache.dymaniccache.DynamicCache;
 import com.hpe.cache.fifo.FifoCache;
